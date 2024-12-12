@@ -1,6 +1,5 @@
 # 🌟 Projeto Integrador II - Faculdade Cesgranrio 🌟
-
-**Desenvolvido por:** Victor Groba  
+ 
 **Disciplina:** Projeto Integrador II  
 **Instituição:** Faculdade Cesgranrio  
 
